@@ -1,4 +1,4 @@
-# The Things Network gateway
+# The Things Network gateway based on Raspberry Pi + IMST iC880a
 
 ![](https://github.com/salekd/TTNgateway/blob/master/gateway.JPG)
 
